@@ -34,7 +34,7 @@
         }
     }
     else{
-        echo "Não existem pessoas cadastradas";
+        echo "Não existem produtos cadastradas";
     }
         echo "</fieldset>";
         
